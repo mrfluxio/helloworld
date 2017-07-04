@@ -1,0 +1,576 @@
+<?xml version="1.0"?>
+<HEXAGRAMS>
+<HEXAGRAM ID="1">
+	<CHI_NAME>乾 (ch'ien)</CHI_NAME>
+	<NAME>"Lo Creativo"</NAME>
+	<VAR_NAMES>"El Cielo", "El Principio Activo", "El Movimiento" y "Dios"</VAR_NAMES>
+	<DICT>
+"Lo Creativo obra elevado logro,
+propiciando por la perseverancia."
+	</DICT>
+</HEXAGRAM>
+
+<HEXAGRAM ID="2">
+	<CHI_NAME>坤 (k'un)</CHI_NAME>
+	<NAME>"Lo Receptivo"</NAME>
+	<VAR_NAMES>"La Tierra", "La Protección" y "El Flujo"</VAR_NAMES>
+	<DICT>
+"Lo Receptivo obra elevado éxito,
+Propiciante por la perseverancia de una yegua.
+Cuando el noble ha de emprender algo y quiere avanzar,
+se extravía; más si va en seguimiento encuentra conducción.
+Es propicio encontrar amigos al Oeste y al Sur;
+evitar los amigos al Este y al Norte.
+Una tranquila perseverancia trae ventura."
+	</DICT>
+</HEXAGRAM>
+
+<HEXAGRAM ID="3">
+    <CHI_NAME>屯 (chun)</CHI_NAME>
+    <NAME>"La Dificultad Inicial"</NAME>
+    <VAR_NAMES>"Brotar", "Empezar Algo Nuevo" y "Acumular"</VAR_NAMES>
+    <DICT>
+"La Dificultad Inicial obra elevado éxito.
+Propicio en virtud de la perseverancia.
+No debe emprenderse nada.
+Es propicio designar ayudantes."
+    </DICT>
+</HEXAGRAM>
+
+<HEXAGRAM ID="4">
+    <CHI_NAME>蒙 (meng)</CHI_NAME>
+    <NAME>"La Necedad Juvenil"</NAME>
+    <VAR_NAMES>"El Aprendiz", "La Inexperiencia Juvenil" y "Descubrir"</VAR_NAMES>
+    <DICT>
+"La Necedad Juvenil tiene éxito.
+No soy yo quien busca al joven necio,
+el joven necio me busca a mí.
+Al primer oráculo doy razón.
+Si pregunta dos, tres veces, es molestia.
+Cuando molesta no doy información.
+Es propicia la perseverancia"
+    </DICT>
+</HEXAGRAM>
+
+<HEXAGRAM ID="5">
+<CHI_NAME>需 (hsü)</CHI_NAME><NAME>"La Espera"</NAME><VAR_NAMES>"La Paciencia", "La Resistencia a las Fuerzas Perjudiciales" y "La Inactividad"</VAR_NAMES>
+<DICT>
+"La Espera.
+Si eres veraz, tendrás luz y éxito.
+La perseverancia trae ventura.
+Es propicio atravesar las grandes aguas."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="6">
+<CHI_NAME>訟 (sung)</CHI_NAME><NAME>"El Conflicto"</NAME><VAR_NAMES>"El Desacuerdo" y "El Pleito"</VAR_NAMES>
+<DICT>
+"El Conflicto: eres veraz y te frenan.
+Detenerse con cautela a mitad del
+camino trae ventura.
+Ir hasta el fin trae desventura.
+Es propicio ver al Gran Hombre.
+No es propicio atravesar las grandes aguas."
+</DICT>
+</HEXAGRAM>
+
+<HEXAGRAM ID="7">
+<CHI_NAME>師 (shih)</CHI_NAME><NAME>"El Ejército"</NAME><VAR_NAMES>"El Líder" y "Las Masas"</VAR_NAMES>
+<DICT>
+"El Ejército requiere perseverancia y un hombre fuerte.
+Ventura sin falla."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="8">
+<CHI_NAME>比 (pi)</CHI_NAME><NAME>"La Solidaridad"</NAME><VAR_NAMES>"La Reunión" y "La Alianza"</VAR_NAMES>
+<DICT>
+"La Solidaridad trae ventura.
+Indaga el oráculo una vez más,
+ve si tienes elevación, duración y
+perseverancia;
+Si es así no habría defecto.
+Los inseguros se allegan poco a poco.
+El que llega tarde tiene desventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="9">
+<CHI_NAME>小畜 (ch'u)</CHI_NAME><NAME>"La Fuerza Domesticadora de lo Pequeño"</NAME><VAR_NAMES>"Débil Influencia" y "Suave Progreso"</VAR_NAMES>
+<DICT>
+"La Fuerza Domesticadora de lo Pequeño
+tiene éxito.
+Densas nubes, ninguna lluvia de
+nuestra región del Oeste."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="10">
+<CHI_NAME>履 (lü)</CHI_NAME><NAME>"El Porte"</NAME><VAR_NAMES>"La Pisada" y "El Comportamiento"</VAR_NAMES>
+<DICT>
+"Pisar la cola al tigre.
+Éste no muerde al hombre. Éxito."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="11">
+<CHI_NAME>泰 (t'ai)</CHI_NAME><NAME>"La Paz"</NAME><VAR_NAMES>"La Abundancia" y "La Prosperidad"</VAR_NAMES>
+<DICT>
+"La Paz. Lo pequeño se va, llega lo grande.
+¡Ventura! ¡Éxito!"
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="12">
+<CHI_NAME>否 (p'i)</CHI_NAME><NAME>"El Estancamiento"</NAME><VAR_NAMES>"La Desunión" y "La Separación"</VAR_NAMES>
+<DICT>
+"El Estancamiento.
+Hombres vulgares no favorecen
+la perseverancia del noble.
+Lo grande se va, llega lo pequeño."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="13">
+<CHI_NAME>同人 (t'ung jen)</CHI_NAME><NAME>"Comunidad con los Hombres"</NAME><VAR_NAMES>"La Comunidad" y "La Amistad"</VAR_NAMES>
+<DICT>
+"Comunidad con los hombres en lo libre: éxito.
+Es propicio atravesar las grandes aguas.
+Propicia es la perseverancia del noble."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="14">
+<CHI_NAME>大有 (ta yu)</CHI_NAME><NAME>"La Posesión de lo Grande"</NAME><VAR_NAMES>"El Dominio" y "La Gran Posesión"</VAR_NAMES>
+<DICT>
+"La Posesión de lo Grande. Elevado logro."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="15">
+<CHI_NAME>謙 (ch'ien)</CHI_NAME><NAME>"La Modestia"</NAME><VAR_NAMES>"El Recato" y "El Respeto"</VAR_NAMES>
+<DICT>
+"La Modestia va creando el éxito.
+El noble lleva a buen término."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="16">
+<CHI_NAME>豫 (yü)</CHI_NAME><NAME>"El Entusiasmo"</NAME><VAR_NAMES>"La Felicidad" y "El Fervor"</VAR_NAMES>
+<DICT>
+"El Entusiasmo. Es propicio.
+designar ayudantes y hacer marchar
+ejércitos."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="17">
+<CHI_NAME>隨 (sui)</CHI_NAME><NAME>"El Seguimiento"</NAME><VAR_NAMES>"El Seguimiento" y "La Huella"</VAR_NAMES>
+<DICT>
+"El seguimiento tiene elevado éxito.
+Es propicia la perseverancia.
+No hay defecto."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="18">
+<CHI_NAME>'蠱' (ku)</CHI_NAME><NAME>"El Trabajo en lo Echado a Perder"</NAME><VAR_NAMES>"La Decadencia", "La Descomposición" y "La Restauración"</VAR_NAMES>
+<DICT>
+"El Trabajo en lo Echado a Perder tiene
+elevado éxito.
+Es propicio atravesar las grandes aguas.
+Antes del punto inicial tres días,
+después del punto inicial tres días."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="19">
+<CHI_NAME>臨 (lin)</CHI_NAME><NAME>"El Acercamiento"</NAME><VAR_NAMES>"Vigilar" y "Incentivar"</VAR_NAMES>
+<DICT>
+"El Acercamiento tiene elevado éxito.
+Es propicia la perseverancia.
+Al llegar el octavo mes habrá desventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="20">
+<CHI_NAME>觀 (kuan)</CHI_NAME><NAME>"La Contemplación"</NAME><VAR_NAMES>"Mirar hacia Arriba" y "Analizar"</VAR_NAMES>
+<DICT>
+"La Contemplación.
+Se ha cumplido la ablución,
+pero aún no la ofrenda.
+Plenos de confianza levantan
+la mirada hacia él."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="21">
+<CHI_NAME>噬嗑 (shih ho)</CHI_NAME><NAME>"La Mordedura Tajante"</NAME><VAR_NAMES>"Eliminar Obstáculos" y "Quebrar Drásticamente"</VAR_NAMES>
+<DICT>
+"La Mordedura Tajante tiene éxito.
+Es propicio administrar justicia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="22">
+<CHI_NAME>賁 (pi)</CHI_NAME><NAME>"La Gracia"</NAME><VAR_NAMES>"La Apariencia" y "La Elegancia"</VAR_NAMES>
+<DICT>
+"La Gracia tiene éxito.
+En lo pequeño es propicio emprender algo."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="23">
+<CHI_NAME>剝 (po)</CHI_NAME><NAME>"La Desintegración"</NAME><VAR_NAMES>"La Opresión" y "El Resquebrajamiento"</VAR_NAMES>
+<DICT>
+"La Desintegración.
+No es propicio ir a parte alguna."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="24">
+<CHI_NAME>復 (fu)</CHI_NAME><NAME>"El Retorno"</NAME><VAR_NAMES>"La Vuelta"</VAR_NAMES>
+<DICT>
+"El Retorno. éxito.
+Salida y entrada sin falla.
+Llegan amigos sin tacha.
+Va y viene el camino.
+Al séptimo día llega el retorno.
+Es propicio tener adonde ir."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="25">
+<CHI_NAME>無妄 (wu wang)</CHI_NAME><NAME>"La Inocencia"</NAME><VAR_NAMES>"Inexperiencia" y "La Espontaneidad"</VAR_NAMES>
+<DICT>
+"La Inocencia. Elevado éxito.
+Es propicia la perseverancia.
+Si alguien no es recto tendrá desdicha,
+y no será propicio emprender algo."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="26">
+<CHI_NAME>大畜 (ta ch'u)</CHI_NAME><NAME>"La Fuerza Domesticadora de lo Grande"</NAME><VAR_NAMES>"Gran Dedicación", "El Desarrollo de la Personalidad" y "Energía Potencial"</VAR_NAMES>
+<DICT>
+"La Fuerza Domesticadora de lo Grande.
+Es propicia la perseverancia.
+Trae ventura no comer en casa.
+Es propicio atravesar las grandes aguas."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="27">
+<CHI_NAME>頤 (I)</CHI_NAME><NAME>"Las Comisuras de la Boca"</NAME><VAR_NAMES>"Tragar", "La Salud" y "Actitudes Moderadas"</VAR_NAMES>
+
+<DICT>
+"Las Comisuras de la Boca.
+Perseverancia trae ventura.
+Presta atención a la nutrición, y a aquello
+con que trata de llenar su boca uno mismo."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="28">
+<CHI_NAME>大過 (ta kuo)</CHI_NAME><NAME>"La Preponderancia de lo Grande"</NAME><VAR_NAMES>"La Sobrecarga" y "La Ruptura"</VAR_NAMES>
+
+<DICT>
+"La Preponderancia de lo Grande.
+La viga maestra se dobla por el medio.
+Es propicio tener a dónde ir.
+Logro."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="29">
+<CHI_NAME>坎 (k'an)</CHI_NAME><NAME>"Lo Abismal"</NAME><VAR_NAMES>"El Precipicio" y "Aguas Peligrosas"</VAR_NAMES>
+
+<DICT>
+"Lo Abismal repetido.
+Si eres veraz, tendrás logro en tu corazón,
+y lo que hicieres tendrá éxito."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="30">
+<CHI_NAME>離 (Lí)</CHI_NAME><NAME>"Lo Adherente"</NAME><VAR_NAMES>"El Discernimiento" y "La Red"</VAR_NAMES>
+<DICT>
+"Lo Adherente.
+Es propicia la perseverancia,
+pues aporta el éxito.
+Dedicarse al cuidado de la vaca trae ventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="31">
+<CHI_NAME>咸 (hsien)</CHI_NAME><NAME>"El Influjo"</NAME><VAR_NAMES>"La Influencia" y "La Atracción Mutua"</VAR_NAMES>
+<DICT>
+"El Influjo. Logro.
+Es Propicia la perseverancia.
+Tomar una muchacha trae ventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="32">
+<CHI_NAME>恆 (heng)</CHI_NAME><NAME>"La Duración"</NAME><VAR_NAMES>"La Estabilidad" y "La Constancia"</VAR_NAMES>
+<DICT>
+"Éxito. No hay falla.
+Es propicia la perseverancia.
+Es propicio que uno tenga a dónde ir."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="33">
+<CHI_NAME>遯 (tun)</CHI_NAME><NAME>"La Retirada"</NAME><VAR_NAMES>"Retroceder" y "Eludir"</VAR_NAMES>
+<DICT>
+"La Retirada. Éxito. En lo pequeño es propicia la perseverancia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="34">
+<CHI_NAME>大壯 (ta chuang)</CHI_NAME><NAME>"El Poder de lo Grande"</NAME><VAR_NAMES>"El Gran Poder" y "La Iniciativa"</VAR_NAMES>
+<DICT>
+"El Poder de lo Grande.
+Es propicia la perseverancia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="35">
+<CHI_NAME>晉 (chin)</CHI_NAME><NAME>"El Progreso"</NAME><VAR_NAMES>"El Avance" y "Prosperar"</VAR_NAMES>
+<DICT>
+"El Progreso. Honran al fuerte príncipe
+con caballos en gran cantidad. En un solo
+día es recibido tres veces."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="36">
+<CHI_NAME>明夷 (ming I)</CHI_NAME><NAME>"El Oscurecimiento de la Luz"</NAME>
+<VAR_NAMES>"El Perjuicio" y "El Eclipsamiento"</VAR_NAMES>
+<DICT>
+"El Oscurecimiento de la Luz.
+Es propicio ser perseverante en la emergencia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="37">
+<CHI_NAME>家人 (chian jen)</CHI_NAME><NAME>"El Clan"</NAME><VAR_NAMES>"La Familia" y "El Hogar"</VAR_NAMES>
+<DICT>
+"El Clan. Es propicia la perseverancia de la mujer."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="38">
+<CHI_NAME>睽 (k'uei)</CHI_NAME><NAME>"El Antagonismo"</NAME><VAR_NAMES>"La Oposición" y "El Desarraigo"</VAR_NAMES>
+<DICT>
+"El Antagonismo. En cosas pequeñas, ventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="39">
+<CHI_NAME>蹇 (chien)</CHI_NAME><NAME>"El Impedimento"</NAME><VAR_NAMES>"La Obstrucción" y "Afrontando un Problema"</VAR_NAMES>
+<DICT>
+"El Impedimento. Es propicio el sudoeste.
+No es propicio el nordeste.
+Es propicio ver al gran hombre.
+La perseverancia trae ventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="40">
+<CHI_NAME>解 (hsieh)</CHI_NAME>
+<NAME>"La Liberación"</NAME>
+<VAR_NAMES>"El Alivio" y "El Desahogo"</VAR_NAMES>
+<IMG>
+    "El trueno y la lluvia forman el Kua Kieh.
+    El sabio es indulgente con el error y trata a los culpables con dulzura."
+</IMG>
+<DICT>
+    "La Liberación. Es propicio el Sudoeste.
+    Si ya no queda nada a donde uno debiera ir,
+    es venturoso el regreso.
+    Si todavía hay algo a donde uno debiera ir,
+    entonces es venturosa la prontitud."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="41">
+<CHI_NAME>損 (sun)</CHI_NAME><NAME>"La Merma"</NAME><VAR_NAMES>"El Decrecimiento" y "La Limitación"</VAR_NAMES>
+<DICT>
+"La Merma unida a la veracidad
+obra elevada ventura sin tacha.
+Puede perseverarse en ello.
+Es propicio emprender algo.
+¿Cómo se pone esto en práctica?
+Dos escudillas pequeñas pueden
+usarse para el sacrificio."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="42">
+<CHI_NAME>益 (I)</CHI_NAME><NAME>"El Aumento"</NAME><VAR_NAMES>"El Incremento" y "La Acumulación"</VAR_NAMES>
+<DICT>
+"El Aumento. Es propicio emprender algo.
+Es propicio atravesar las grandes aguas."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="43">
+<CHI_NAME>夬 (kuai)</CHI_NAME><NAME>"El Desbordamiento"</NAME><VAR_NAMES>"La Revolución" y "Ordenar Definitivamente"</VAR_NAMES>
+<DICT>
+"El Desbordamiento.
+Resueltamente el asunto ha de darse
+a conocer en la corte del rey.
+Ha de proclamarse conforme a la verdad. ¡Peligro!
+Hay que dar aviso a la propia ciudad.
+No es propicio tomar las armas.
+Es propicio emprender algo."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="44">
+<CHI_NAME>姤 (kou)</CHI_NAME><NAME>"El Ir al Encuentro"</NAME><VAR_NAMES>"El Encuentro Inesperado" y "La Complacencia"</VAR_NAMES>
+<DICT>
+"El Ir al Encuentro. La muchacha es poderosa.
+No debe uno casarse con semejante muchacha."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="45">
+<CHI_NAME>萃 (ts'ui)</CHI_NAME><NAME>"La Reunión"</NAME><VAR_NAMES>"La Unidad" y "Agruparse"</VAR_NAMES>
+<DICT>
+"La Reunión. Éxito.
+El rey se acerca a su templo.
+Es propicio ver al Gran Hombre.
+Esto trae éxito. Es propicia la perseverancia.
+Ofrendar grandes sacrificios engendra ventura.
+Es propicio emprender algo."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="46">
+<CHI_NAME>升 (sheng)</CHI_NAME><NAME>"La Subida"</NAME><VAR_NAMES>"Empujando hacia Arriba"</VAR_NAMES>
+<DICT>
+"La Subida tiene elevado éxito.
+Hay que ver al Gran Hombre.
+¡No temas!
+La partida hacia el Sur trae ventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="47">
+<CHI_NAME>困 (k'un)</CHI_NAME><NAME>"La Desazón"</NAME><VAR_NAMES>"La Opresión" y "La Adversidad"</VAR_NAMES>
+<DICT>
+"La Desazón. Logro. Perseverancia.
+El gran hombre logra ventura. Ningún defecto.
+Si uno tiene algo que decir, no se le cree."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="48">
+<CHI_NAME>井 (ching)</CHI_NAME><NAME>"El Pozo"</NAME><VAR_NAMES>"La Fuente"</VAR_NAMES>
+<DICT>
+"El Pozo.
+Puede cambiarse de ciudad,
+mas no puede cambiarse de pozo.
+Este no disminuye y no aumenta.
+Ellos vienen y van y recogen del pozo.
+Cuando casi se ha alcanzado el agua del
+pozo, pero todavía no se llega abajo con
+la cuerda o se rompe el cántaro, eso
+trae desventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="49">
+<CHI_NAME>革 (ko)</CHI_NAME><NAME>"La Revolución"</NAME><VAR_NAMES>"La Muda" y "La Renovación"</VAR_NAMES>
+<DICT>
+"La Revolución.
+En tu propio día encontraré fe.
+Elevado éxito, propicio por la perseverancia.
+Se desvanece el arrepentimiento."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="50">
+<CHI_NAME>鼎 (ting)</CHI_NAME><NAME>"El Caldero"</NAME><VAR_NAMES>"La Marmita" y "El Recipiente Sacrificial"</VAR_NAMES>
+<DICT>
+"El Caldero.
+Elevada ventura.
+éxito."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="51">
+<CHI_NAME>震 (chen)</CHI_NAME><NAME>"La Conmoción"</NAME><VAR_NAMES>"Lo Suscitativo" y "Tiempos Agitados"</VAR_NAMES>
+<DICT>
+"La Conmoción trae éxito.
+Llega la conmoción: ¡ju, ju!
+Palabras rientes: ¡ja, ja!
+La Conmoción aterra a cien millas,
+y él no deja caer el cucharón sacrificial, ni el cáliz."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="52">
+<CHI_NAME>艮 (ken)</CHI_NAME><NAME>"El Aquietamiento"</NAME><VAR_NAMES>"La Inmovilidad" y "El Reposo"</VAR_NAMES>
+<DICT>
+"Aquietamiento de su espalda,
+de modo que él ya no siente su cuerpo.
+Va a su patio y no ve a su gente.
+Ningún defecto."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="53">
+<CHI_NAME>漸 (chien)</CHI_NAME><NAME>"La Evolución"</NAME><VAR_NAMES>"El Progreso Paulatino" y "El Avance"</VAR_NAMES>
+<DICT>
+"La Evolución. Casan a la muchacha. Ventura.
+Es propicia la perseverancia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="54">
+<CHI_NAME>歸妹 (kuei mei)</CHI_NAME><NAME>"La Desposada"</NAME><VAR_NAMES>"La Muchacha que se casa" y "La Concubina"</VAR_NAMES>
+<DICT>
+"La Desposanda.
+Las empresas traen desventura.
+Nada que fuese propicio."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="55">
+<CHI_NAME>豐 (feng)</CHI_NAME><NAME>"La Plenitud"</NAME><VAR_NAMES>"La Riqueza" y "La Plenitud"</VAR_NAMES>
+<DICT>
+"La Plenitud tiene éxito.
+El rey la alcanza.
+No estés triste; debes ser como el
+sol al mediodía."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="56">
+<CHI_NAME>旅 (lü)</CHI_NAME><NAME>"El Andariego"</NAME><VAR_NAMES>"El Viaje" y "El Vagabundo"</VAR_NAMES>
+<DICT>
+"El Andariego. éxito por lo pequeño.
+Al Andariego la perseverancia le trae ventura."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="57">
+<CHI_NAME>巽 (sun)</CHI_NAME><NAME>"Lo Suave"</NAME><VAR_NAMES>"Lo Penetrante" y "La Persistencia"</VAR_NAMES>
+<DICT>
+"Lo Suave. Éxito por lo pequeño.
+Es propicio tener a dónde ir.
+Es propicio ver al Gran Hombre."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="58">
+<CHI_NAME>兌 (tui)</CHI_NAME><NAME>"Lo Sereno"</NAME><VAR_NAMES>"El Lago" y "Recogerse"</VAR_NAMES>
+<DICT>
+"Lo Sereno. Éxito. Es propicia la perseverancia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="59">
+<CHI_NAME>渙 (huan)</CHI_NAME><NAME>"La Disolución"</NAME><VAR_NAMES>"La Dispersión" y "El Desbande"</VAR_NAMES>
+<DICT>
+"La Disolución. Éxito.
+El rey se acerca a su templo.
+Es propicio atravesar las grandes aguas.
+Es propicia la perseverancia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="60">
+<CHI_NAME>節 (chieh)</CHI_NAME><NAME>"La Restricción"</NAME><VAR_NAMES>"La Limitación" y "La Moderación"</VAR_NAMES>
+<DICT>
+"La Restricción. Éxito.
+No se debe ejercer con persistencia
+una restricción amarga."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="61">
+<CHI_NAME>中孚 (chung fu)</CHI_NAME><NAME>"La Verdad Interior"</NAME><VAR_NAMES>"El Retorno al Centro" y "Fe Interior"</VAR_NAMES>
+<DICT>
+"Verdad Interior. Cerdos y peces. ¡Ventura!
+Es propicio cruzar las grandes aguas.
+Es propicia la perseverancia."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="62">
+<CHI_NAME>小過 (hsiao kuo)</CHI_NAME><NAME>"Preponderancia de lo Pequeño"</NAME><VAR_NAMES>"Pequeños Logros" y "La Importancia de lo Pequeño"</VAR_NAMES>
+<DICT>
+"Preponderancia de lo Pequeño. Éxito.
+Es propicia la perseverancia.
+Pueden hacerse cosas pequeñas, no deben
+hacerse cosas grandes.
+El pájaro volador trae el mensaje:
+no es bueno aspirar hacia lo alto,
+es bueno permanecer abajo. ¡Gran ventura!"
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="63">
+<CHI_NAME>既濟 (chi chi)</CHI_NAME><NAME>"Después de la Consumación"</NAME><VAR_NAMES>"El Punto de Retorno" y "Cerrar un Ciclo"</VAR_NAMES>
+<DICT>
+"Éxito en lo pequeño. Es propicia la perseverancia.
+Al principio ventura, al cabo confusiones."
+</DICT></HEXAGRAM>
+
+<HEXAGRAM ID="64">
+<CHI_NAME>未濟 (wei chi)</CHI_NAME><NAME>"Antes de la consumación"</NAME><VAR_NAMES>"Volver a Comenzar" y "El Porvenir"</VAR_NAMES>
+<DICT>
+"Antes de la consumación. Logro.
+Pero si al pequeño zorro,
+cuando casi ha consumado la travesía,
+se le hunde la cola en el agua,
+no hay nada que sea propicio."
+</DICT></HEXAGRAM>
+</HEXAGRAMS>

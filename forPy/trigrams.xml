@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<TRIGRAMS>
+    <TRIGRAM ID="0">
+		<BIN_VALUE>000</BIN_VALUE>
+		<CHI_NAME>坤 (kun)</CHI_NAME>
+		<NAME>lo receptivo</NAME>
+		<QUALITY>abnegado</QUALITY>
+		<IMG>tierra</IMG>
+		<FAMILY>madre</FAMILY>
+		<SYMBOL>☷</SYMBOL>
+	</TRIGRAM>
+    <TRIGRAM ID="1">
+		<BIN_VALUE>100</BIN_VALUE>
+		<CHI_NAME>艮 (ken)</CHI_NAME>
+		<NAME>el aquietamiento</NAME>
+		<QUALITY>quieto</QUALITY>
+		<IMG>montaña</IMG>
+		<FAMILY>tercer hijo</FAMILY>
+		<SYMBOL>☶</SYMBOL>
+	</TRIGRAM>
+    <TRIGRAM ID="2">
+		<BIN_VALUE>010</BIN_VALUE>
+		<CHI_NAME>坎 (kan)</CHI_NAME>
+		<NAME>lo abismal</NAME>
+		<QUALITY>peligroso</QUALITY>
+		<IMG>agua</IMG>
+		<FAMILY>segundo hijo</FAMILY>
+		<SYMBOL>☵</SYMBOL>
+	</TRIGRAM>
+    <TRIGRAM ID="3">
+		<BIN_VALUE>110</BIN_VALUE>
+		<CHI_NAME>巽 (sun)</CHI_NAME>
+		<NAME>lo suave</NAME>
+		<QUALITY>penetrante</QUALITY>
+		<IMG>viento, madera</IMG>
+		<FAMILY>primera hija</FAMILY>
+		<SYMBOL>☴</SYMBOL>
+	</TRIGRAM>
+    <TRIGRAM ID="4">
+		<BIN_VALUE>001</BIN_VALUE>
+		<CHI_NAME>震 (chen)</CHI_NAME>
+		<NAME>lo suscitativo</NAME>
+		<QUALITY>movilizante</QUALITY>
+		<IMG>trueno</IMG>
+		<FAMILY>primer hijo</FAMILY>
+		<SYMBOL>☳</SYMBOL>
+	</TRIGRAM>
+    <TRIGRAM ID="5">
+		<BIN_VALUE>101</BIN_VALUE>
+		<CHI_NAME>離 (li)</CHI_NAME>
+		<NAME>lo adherente</NAME>
+		<QUALITY>luminoso</QUALITY>
+		<IMG>fuego</IMG>
+		<FAMILY>segunda hija</FAMILY>
+		<SYMBOL>☲</SYMBOL>
+	</TRIGRAM>
+    <TRIGRAM ID="6">
+		<BIN_VALUE>011</BIN_VALUE>
+		<CHI_NAME>兌 (tui)</CHI_NAME>
+		<NAME>lo sereno</NAME>
+		<QUALITY>regocijante</QUALITY>
+		<IMG>lago</IMG>
+		<FAMILY>tercera hija</FAMILY>
+		<SYMBOL>☱</SYMBOL>
+	</TRIGRAM>
+    <TRIGRAM ID="7">
+		<BIN_VALUE>111</BIN_VALUE>
+		<CHI_NAME>乾 (ch’ien)</CHI_NAME>
+		<NAME>lo creativo</NAME>
+		<QUALITY>fuerte</QUALITY>
+		<IMG>cielo</IMG>
+		<FAMILY>padre</FAMILY>
+		<SYMBOL>☰</SYMBOL>
+	</TRIGRAM>
+</TRIGRAMS>
